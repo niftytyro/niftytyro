@@ -9,39 +9,39 @@
 <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&show_icons=true" />
 </p>
 
-<p align="center">
-    <a href="mailto: me@udasitharani.dev">
+<p display="flex" align="center">
+    <a target="_blank" href="mailto: me@udasitharani.dev">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' />
         </span>
     </a>
-    <a href="https://www.instagram.com/udasi.tharani/">
+    <a target="_blank" href="https://www.instagram.com/udasi.tharani/">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/instagram.svg'
             />
         </span>
     </a>
-    <a href="https://www.linkedin.com/in/udasi-tharani-bb3232193/">
+    <a target="_blank" href="https://www.linkedin.com/in/udasi-tharani-bb3232193/">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/linkedin.svg'/>
         </span>
     </a>
-    <a href="https://t.me/udasitharani">
+    <a target="_blank" href="https://t.me/udasitharani">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg'/>
         </span>
     </a>
-    <a href="https://medium.com/@udasitharani">
+    <a target="_blank" href="https://medium.com/@udasitharani">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/medium.svg' />
         </span>
     </a>
-    <a href="https://github.com/udasitharani">
+    <a target="_blank" href="https://github.com/udasitharani">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg'/>
         </span>
     </a>
-    <a href="https://twitter.com/TharaniUdasi">
+    <a target="_blank" href="https://twitter.com/TharaniUdasi">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg'/>
         </span>
