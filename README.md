@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./readme.css" />
+<link rel="stylesheet" href="https://github.com/udasitharani/udasitharani/blob/master/readme.css" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h2 align="center">I'm Udasi Tharani, a Freelance Software Developer.</h2>
