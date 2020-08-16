@@ -11,39 +11,25 @@
 
 <p align="center">
     <a href="mailto: me@udasitharani.dev">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' width="40" height="40"/>
     </a>
     <a href="https://www.instagram.com/udasi.tharani/">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/instagram.svg'
-            width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/instagram.svg'
+        width="40" height="40"/>
     </a>
     <a href="https://www.linkedin.com/in/udasi-tharani-bb3232193/">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/linkedin.svg' width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/linkedin.svg' width="40" height="40"/>
     </a>
     <a href="https://t.me/udasitharani">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="40" height="40"/>
     </a>
     <a href="https://medium.com/@udasitharani">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/medium.svg' width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/medium.svg' width="40" height="40"/>
     </a>
     <a href="https://github.com/udasitharani">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg' width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg' width="40" height="40"/>
     </a>
     <a href="https://twitter.com/TharaniUdasi">
-        <span style="padding: 30px;">
-            <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg' width="40" height="40"/>
-        </span>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg' width="40" height="40"/>
     </a>
 </p>
