@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h2>I'm Udasi Tharani, a Freelance Software Developer.</h2>
-- 🚀 Currently, I'm mastering <b>Full-Stack Web Development</b>.
+<h2 align="center">I'm Udasi Tharani, a Freelance Software Developer.</h2>
+
+- 🚀 Currently, I'm mastering **Full-Stack Web Development**.
 - 💬 Would be glad if you could give me some tips.
 <br/>
 <p align="center">My Website [udasitharani.dev](https://udasitharani.dev)</p>
