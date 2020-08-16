@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./readme.css" />
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h2 align="center">I'm Udasi Tharani, a Freelance Software Developer.</h2>
 
@@ -10,7 +12,7 @@
 </p>
 
 <dl>
-<div display="flex" style="justify-content: space-evenly;" align="center">
+<div align="center">
     <a target="_blank" href="mailto: me@udasitharani.dev">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' />
