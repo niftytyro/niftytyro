@@ -11,25 +11,25 @@
 
 <p align="center">
     <a href="mailto: me@udasitharani.dev">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' width="40" height="40"/>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' width="40" height="40" margin="10"/>
     </a>
     <a href="https://www.instagram.com/udasi.tharani/">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/instagram.svg'
-        width="40" height="40"/>
+        width="40" height="40" margin="10"/>
     </a>
     <a href="https://www.linkedin.com/in/udasi-tharani-bb3232193/">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/linkedin.svg' width="40" height="40">
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/linkedin.svg' width="40" height="40" margin="10"/>
     </a>
     <a href="https://t.me/udasitharani">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="40" height="40"/>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="40" height="40" margin="10"/>
     </a>
     <a href="https://medium.com/@udasitharani">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/medium.svg' width="40" height="40"/>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/medium.svg' width="40" height="40" margin="10"/>
     </a>
     <a href="https://github.com/udasitharani">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg' width="40" height="40"/>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg' width="40" height="40" margin="10"/>
     </a>
     <a href="https://twitter.com/TharaniUdasi">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg' width="40" height="40"/>
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg' width="40" height="40" margin="10"/>
     </a>
 </p>
