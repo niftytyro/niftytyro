@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&show_icons=true" />
 </p>
 
-<p display="flex" align="center">
+<div display="flex" style="justify-content: space-evenly;" align="center">
     <a target="_blank" href="mailto: me@udasitharani.dev">
         <span style="padding: 5px; width: 40px; height: 40px">
             <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' />
@@ -46,4 +46,4 @@
             <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg'/>
         </span>
     </a>
-</p>
+</div>
