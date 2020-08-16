@@ -9,6 +9,7 @@
 <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&show_icons=true" />
 </p>
 
+<dl>
 <div display="flex" style="justify-content: space-evenly;" align="center">
     <a target="_blank" href="mailto: me@udasitharani.dev">
         <span style="padding: 5px; width: 40px; height: 40px">
@@ -47,3 +48,4 @@
         </span>
     </a>
 </div>
+</dl>
