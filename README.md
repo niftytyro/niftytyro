@@ -3,8 +3,7 @@
 
 - 🚀 Currently, I'm mastering **Full-Stack Web Development**.
 - 💬 Would be glad if you could give me some tips.
-<br/>
-<p align="center">My Website [udasitharani.dev](https://udasitharani.dev)</p>
+- 📱 My Website: [udasitharani.dev](https://udasitharani.dev)
 <br/>
 <p align="center">
 <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&show_icons=true" />
