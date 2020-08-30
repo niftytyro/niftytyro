@@ -3,8 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h2 align="center">I'm Udasi Tharani, a Freelance Software Developer.</h2>
 
-- 🚀 Currently, I'm mastering **Full-Stack Web Development**.
-- 💬 Would be glad if you could give me some tips.
+- 🚀 Currently, I'm mastering **Full-Stack Web Development** and **Flutter**.
+- 💬 Would be glad to get some tips.
 - 📱 My Website: [udasitharani.dev](https://udasitharani.dev)
 <br/>
 <p align="center">
