@@ -8,7 +8,7 @@
 - 📱 My Website: [udasitharani.dev](https://udasitharani.dev)
 <br/>
 <p align="center">
-<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&show_icons=true" />
+<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&theme=react&show_icons=true" />
 </p>
 
 <p align="center">
