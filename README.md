@@ -22,12 +22,8 @@ Checkout my website 💻: [udasi.me](https://udasi.me)
     <a target="_blank" href="https://t.me/udasitharani">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="60" height="40"/>
     </a>
-    <a target="_blank" href="https://github.com/niftytyro">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg'
-        width="60" height="40"/>
-    </a>
     <a target="_blank" href="https://x.com/niftytyro">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg'
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/x.png'
         width="60" height="40"/>
     </a>
 </p>
