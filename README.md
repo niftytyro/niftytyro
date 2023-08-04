@@ -6,7 +6,7 @@ I am a software engineer with a love for great products and great technology. I 
 
 Outside software, these days I am trying to wrap my head around philosophy and also, a litul guitar.
 
-Checkout my website 💻: [udasi.me](https://udasi.me)
+Checkout my website 💻: [https://udasi.me](https://udasi.me)
 <br/>
 <br/>
 <p align="center">
