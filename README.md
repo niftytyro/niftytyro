@@ -1,38 +1,32 @@
 <link rel="stylesheet" href="https://github.com/udasitharani/udasitharani/blob/master/readme.css" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h2 align="center">I'm Udasi Tharani, a Freelance Software Developer.</h2>
+<h2>Hi there! I'm Udasi</h2>
 
-- 🚀 Currently, I'm mastering **Full-Stack Web Development** and **Flutter**.
-- 💬 Would be glad to get some tips.
-- 📱 My Website: [udasitharani.dev](https://udasitharani.dev)
+I am a software engineer with a love for great products and great technology. I like tinkering with a lot of things. In software, currently I am playing around with emulators and programming languages. I am also extremely intrigued by the design of things and what makes great design.
+
+Outside software, these days I am trying to wrap my head around philosophy and also, a litul guitar.
+
+Checkout my website 💻: [udasi.me](https://udasi.me)
 <br/>
 <p align="center">
-<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&theme=react&show_icons=true" />
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=udasitharani&theme=react&show_icons=true" />
 </p>
 
 <p align="center">
-    <a target="_blank" href="mailto: me@udasitharani.dev">
+    <a target="_blank" href="mailto: yo@udasi.me">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/gmail.svg' width="60" height="40"/>
     </a>
-    <a target="_blank" href="https://www.instagram.com/udasi.tharani/">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/instagram.svg' width="60" height="40"/>
-    </a>
-    <a target="_blank" href="https://www.linkedin.com/in/udasi-tharani-bb3232193/">
+    <a target="_blank" href="https://www.linkedin.com/in/udasitharani">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/linkedin.svg' width="60" height="40"/>
     </a>
     <a target="_blank" href="https://t.me/udasitharani">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="60" height="40"/>
     </a>
-    <a target="_blank" href="https://medium.com/@udasitharani">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/medium.svg' 
-        width="60" height="40"/>
-    </a>
-    <a target="_blank" href="https://github.com/udasitharani">
+    <a target="_blank" href="https://github.com/niftytyro">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/github.svg'
         width="60" height="40"/>
     </a>
-    <a target="_blank" href="https://twitter.com/TharaniUdasi">
+    <a target="_blank" href="https://x.com/niftytyro">
         <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg'
         width="60" height="40"/>
     </a>
