@@ -8,6 +8,7 @@ Outside software, these days I am trying to wrap my head around philosophy and a
 
 Checkout my website 💻: [udasi.me](https://udasi.me)
 <br/>
+<br/>
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=niftytyro&theme=react&show_icons=true" />
 </p>
