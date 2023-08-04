@@ -23,7 +23,7 @@ Checkout my website 💻: [udasi.me](https://udasi.me)
         <img src='https://github.com/udasitharani/udasitharani/blob/master/telegram.svg' width="60" height="40"/>
     </a>
     <a target="_blank" href="https://x.com/niftytyro">
-        <img src='https://github.com/udasitharani/udasitharani/blob/master/x.png'
+        <img src='https://github.com/udasitharani/udasitharani/blob/master/twitter.svg'
         width="60" height="40"/>
     </a>
 </p>
